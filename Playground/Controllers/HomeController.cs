@@ -15,7 +15,7 @@ namespace Playground.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.  This will be removed soon I think.";
+            ViewBag.Message = "Your application description page.  So I think this should stay only on the dev branch....";
 
             return View();
         }
