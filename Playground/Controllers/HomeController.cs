@@ -15,7 +15,7 @@ namespace Playground.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page.  This will be removed soon I think.";
 
             return View();
         }
